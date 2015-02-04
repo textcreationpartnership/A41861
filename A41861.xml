@@ -113,8 +113,8 @@
    </teiHeader>
    <text xml:lang="unk">
       <body>
-         <div n="battle" type="account">
-            <pb facs="tcp:43528:0001"/>
+         <div type="newsbook">
+            <pb facs="tcp:43528:1"/>
             <!-- PDF PAGE 18 -->
             <head>Great and Glorious News FROM IRELAND.</head>
             <p>Being a Full and Particular Account, of a moſt Terrible and Bloody Fight, which was on <hi>Wedneſday</hi> laſt, <hi>June</hi> 2d. Between the <hi>Royal Ar<g ref="char:EOLhyphen"/>my,</hi> Commanded by His Majeſty, King <hi>William</hi>; and the whole <hi>French</hi> and <hi>Iriſh</hi> Army, Commanded by the Late King <hi>James,</hi> which hapned on a Plain About Nine Miles from <hi>Dublin</hi>; with the Killing of the Dukes of <hi>Berwick,</hi> and <hi>Tyrconnel,</hi> and Six Thouſand more of the Enemy on the Spot; and the Taking of Seven Thouſand Priſoners. With the Manner of King <hi>William</hi>' Taking the City of <hi>Dublin.</hi>
